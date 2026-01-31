@@ -56,7 +56,7 @@ Understand behavioral differences between annual members and casual riders to in
 - PowerPoint for presentations
 
 ### Author
-Giorgio Vernareci
+Giorgio Vernarecci
 
 ### License
 Data provided by Motivate International Inc. under [this license](https://www.divvybikes.com/data-license-agreement).
